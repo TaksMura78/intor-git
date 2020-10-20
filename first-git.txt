@@ -3,3 +3,4 @@ Gitの基礎学習開始！
 ・Git add
 ・Git commit
 .Git rm
+.Git status
