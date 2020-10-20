@@ -4,3 +4,4 @@ Gitの基礎学習開始！
 ・Git commit
 .Git rm
 .Git status
+.git diff
